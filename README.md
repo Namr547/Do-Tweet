@@ -1,16 +1,4 @@
 # do_tweet
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![doTweet](https://github.com/user-attachments/assets/6172e99c-ea10-485d-a3c7-f4712e15062a)
+![DoTweet1](https://github.com/user-attachments/assets/50ba2261-5d4e-4b08-b6f3-fb2472a4dd00)
